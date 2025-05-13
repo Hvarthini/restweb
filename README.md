@@ -151,9 +151,9 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-![pic 1](https://github.com/user-attachments/assets/35b1d80f-a464-40d5-b011-c7d1fdec5d6a)
-![pic 2](https://github.com/user-attachments/assets/6cfeb2cc-7851-43da-bec4-78647e99bba0)
+![pic 2](https://github.com/user-attachments/assets/f17828f1-3094-47c3-99fa-5aa6bdaffd17)
 
+![pic 1](https://github.com/user-attachments/assets/35b1d80f-a464-40d5-b011-c7d1fdec5d6a)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
